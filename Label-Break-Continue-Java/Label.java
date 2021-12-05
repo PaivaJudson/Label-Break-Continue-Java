@@ -2,7 +2,7 @@ public class Label {
     public static void main(String[] args) {
         
         boolean matriz[][] = {
-            {false, false, false, false, false, false},
+            {false, false, false, false},
             {false, false, false, false, false, true}
         };
 
